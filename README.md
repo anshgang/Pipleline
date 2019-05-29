@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/anshulgangrade/MyFirstTest/_apis/build/status/anshgang.Pipleline?branchName=master)](https://dev.azure.com/anshulgangrade/MyFirstTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
